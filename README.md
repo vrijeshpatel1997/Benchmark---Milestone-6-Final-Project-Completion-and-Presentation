@@ -245,7 +245,7 @@ The unit testing approach for the "CST 452 Product Management" project is aimed 
 
 ---
 ## Screen shot
-![Home Screen ](URL)
+![Home Screen ](ss8.png)
 
 
 
