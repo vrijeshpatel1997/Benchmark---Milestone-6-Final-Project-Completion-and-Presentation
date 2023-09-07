@@ -246,6 +246,16 @@ The unit testing approach for the "CST 452 Product Management" project is aimed 
 ---
 ## Screen shot
 ![Home Screen ](ss8.png)
+![Add Product  Screen ](ss7.png)
+![Edit Product Screen ](ss9.png)
+![Data base  Screen ](ss10.png)
+![Post man GET API product   Screen ](ss11.png)
+![Post man GET API product with ID  Screen ](ss12.png)
+![Post man DELETE API product   Screen ](ss14.png)
+![Post man DELETe API product   Screen ](ss15.png)
+
+
+
 
 
 
